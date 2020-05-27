@@ -1,0 +1,13 @@
+C:\Users\giova\Desktop\pastaDoDe\celular\bin\Debug\netcoreapp3.1\celular.exe
+C:\Users\giova\Desktop\pastaDoDe\celular\bin\Debug\netcoreapp3.1\celular.deps.json
+C:\Users\giova\Desktop\pastaDoDe\celular\bin\Debug\netcoreapp3.1\celular.runtimeconfig.json
+C:\Users\giova\Desktop\pastaDoDe\celular\bin\Debug\netcoreapp3.1\celular.runtimeconfig.dev.json
+C:\Users\giova\Desktop\pastaDoDe\celular\bin\Debug\netcoreapp3.1\celular.dll
+C:\Users\giova\Desktop\pastaDoDe\celular\bin\Debug\netcoreapp3.1\celular.pdb
+C:\Users\giova\Desktop\pastaDoDe\celular\obj\Debug\netcoreapp3.1\celular.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\pastaDoDe\celular\obj\Debug\netcoreapp3.1\celular.AssemblyInfoInputs.cache
+C:\Users\giova\Desktop\pastaDoDe\celular\obj\Debug\netcoreapp3.1\celular.AssemblyInfo.cs
+C:\Users\giova\Desktop\pastaDoDe\celular\obj\Debug\netcoreapp3.1\celular.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\pastaDoDe\celular\obj\Debug\netcoreapp3.1\celular.dll
+C:\Users\giova\Desktop\pastaDoDe\celular\obj\Debug\netcoreapp3.1\celular.pdb
+C:\Users\giova\Desktop\pastaDoDe\celular\obj\Debug\netcoreapp3.1\celular.genruntimeconfig.cache
